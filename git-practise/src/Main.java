@@ -7,3 +7,7 @@ void main() {
 public void disp(){
     System.out.println("Just testing");
 }
+
+public void disp2(){
+    System.out.println("Branching!");
+}
