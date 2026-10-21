@@ -3,3 +3,7 @@
 void main() {
     System.out.println("Hello world");
 }
+
+public void disp(){
+    System.out.println("Just testing");
+}
